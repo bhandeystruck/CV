@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+p {
+  color: #66BFBF;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+div {
+  background-color: white;
+  height: 200;
+}
+
+
+.top-container {
+  background-color: #bae8e8;
+  position: relative;
+  padding-top: 150px;
+}
+
+.bottom-container{
+  background-color: #11999E;
+  font-size: 1rem;
+  height: auto;
+}
+
+
+.p1{
+  color: black;
+  font-family: 'Merriweather', serif;
+
+}
+
+
+.Hello{
+  font-family: 'Merriweather', serif;
+  color: black;
+}
+
+.footerlink {
+  color: #11999E;
+}
+
+.propic {
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  margin-top: 5%;
+}
+
+.skillpic {
+  width: 25%;
+  border-radius: 40%;
+  float: left;
+  margin-right: 30px;
+}
+
+.secondskill {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.code-skill-discription{
+  text-align: justify;
+  color: black;
+  font-size: 70%;
+}
+.second-skill-description{
+  text-align: justify;
+  color: black;
+  font-size: 70%;
+}
+.ending-note{
+  color: black;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  font-size: 55%;
+  width: 40%;
+  margin: 40px auto 60px;
+
+
+}
